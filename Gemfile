@@ -34,7 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # For Heroku
 group :production do
-	gem 'rails_12factor'
+  gem 'rails_12factor'
 end
 
 group :development, :test do
